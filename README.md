@@ -62,7 +62,7 @@ Modify, test, or expand the network as needed.
 
 ### Common verification commands:
 
-bash
+```bash
 show ip interface brief
 show vlan brief
 show running-config
