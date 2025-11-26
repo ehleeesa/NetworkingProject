@@ -13,7 +13,7 @@ The main file in this project is NetworkingProject.pkt. This project can be open
 
 - Practice common networking tasks such as VLANs, routing, and verification commands
 
-## Topology summary:
+## Topology summary
 
 ### This Packet Tracer project includes:
 
@@ -28,9 +28,9 @@ The main file in this project is NetworkingProject.pkt. This project can be open
 If your project includes additional components (DHCP, OSPF, inter-VLAN routing, etc.), I can insert them here — just tell me.
 
 
-### Features Implemented
+## Features implemented
 
-## Typical features this project demonstrates:
+### Typical features this project demonstrates:
 
 - VLAN configuration
 
@@ -58,9 +58,9 @@ If your project includes additional components (DHCP, OSPF, inter-VLAN routing, 
 Explore the topology or view device configurations.
 Modify, test, or expand the network as needed.
 
-### Testing & Verification
+## Testing & Verification
 
-## Common verification commands:
+### Common verification commands:
 
 show ip interface brief
 show vlan brief
