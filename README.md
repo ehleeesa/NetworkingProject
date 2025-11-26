@@ -1,12 +1,7 @@
 # Networking Project – Cisco Packet Tracer
 
 This repository contains a Cisco Packet Tracer project demonstrating foundational networking concepts, device configuration, and network design.
-The main file in this project is:
-
-NetworkingProject.pkt
-
-
-This project can be opened using Cisco Packet Tracer 8.x or later.
+The main file in this project is NetworkingProject.pkt. This project can be opened using Cisco Packet Tracer 8.x or later.
 
 ### Project goals:
 
